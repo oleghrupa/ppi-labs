@@ -6,3 +6,7 @@ pip install matplotlib plotly
 ```bash
 pip install numpy
 ```
+# Lab6 requirements
+```bash
+pip install requests
+```
