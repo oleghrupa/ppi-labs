@@ -10,3 +10,11 @@ pip install numpy
 ```bash
 pip install requests
 ```
+# Lab8 requirements
+```bash
+pip install pytest
+```
+Command to run pytest tests:
+```bash
+python -m pytest
+```
